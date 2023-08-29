@@ -1,9 +1,9 @@
 const contractAddress = "0x515d92E46aA42809787Dad2539cEc993F9f97356"; // Replace with your own contract address
 const chain = 'ethereum'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the FrankandPank NFT Project!!";
+const welcome_h1 = "Welcome to FrankandPank NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Frank and Pank Genesis NFT Project is a decentralized, open-source project ';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
